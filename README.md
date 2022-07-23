@@ -3,22 +3,22 @@
 
 ***
 
-Я бы, конечно, мог сказать, что люблю играть в развивающие игры, но это не так. Иногда я люблю погонять в танки [жми сюда](https://tankionline.com/ru// "Браузерная игра")
+Of course, I could say that I like to play educational games, but this is not the case. Sometimes I like to drive in tanks [click here] (https://tankionline.com/ru // "Browser game")
 
-В этой игре используется несколько типов пушек:
-1. Изида
-2. Молот
-3. Тесла
-4. Твинкс
-5. Огнемет
-6. Фриз
+There are several types of guns used in this game:
+1. Isis
+2. Hammer
+3. Tesla
+4. Winx
+5. Flamethrower
+6. Frieze
 
-Кроме того, можно выбрать корпус танка, которые делятся на 3 типа:
-* Легкие
-* Средние
-* Тяжелые
+In addition, you can choose the tank body, which are divided into 3 types:
+* Light
+* Average
+* Heavy
 
-Вот так выглядит гараж:
+This is what the garage looks like:
 
 <a href="https://ibb.co/4pdsVQc"><img src="https://i.ibb.co/1T6smS3/2022-07-23-162545.jpg" alt="2022-07-23-162545" border="0"></a>
 
