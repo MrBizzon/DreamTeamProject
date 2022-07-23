@@ -19,4 +19,5 @@
 * Тяжелые
 
 Вот так выглядит гараж:
-![Снимок гаража](<a href="https://ibb.co/4pdsVQc"><img src="https://i.ibb.co/1T6smS3/2022-07-23-162545.jpg" alt="2022-07-23-162545" border="0"></a>)
+
+<a href="https://ibb.co/4pdsVQc"><img src="https://i.ibb.co/1T6smS3/2022-07-23-162545.jpg" alt="2022-07-23-162545" border="0"></a>
