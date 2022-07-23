@@ -21,3 +21,5 @@
 Вот так выглядит гараж:
 
 <a href="https://ibb.co/4pdsVQc"><img src="https://i.ibb.co/1T6smS3/2022-07-23-162545.jpg" alt="2022-07-23-162545" border="0"></a>
+
+>Tanks Online is the first multiplayer 3D action movie on Flash. Take part in frenzied tank battles — destroy enemy tanks, help your team, develop your tank, build a military career! Many types of weapons, several game modes and only real players.
