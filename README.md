@@ -24,6 +24,6 @@ This is what the garage looks like:
 
 >Tanks Online is the first multiplayer 3D action movie on Flash. Take part in frenzied tank battles — destroy enemy tanks, help your team, develop your tank, build a military career! Many types of weapons, several game modes and only real players.
 
-But if you listen to women, they are extremely unhappy that their husbands are addicted to this game:
+**But if you listen to women, they are extremely unhappy that their husbands are addicted to this game:
 
 >I consider any Internet and computer games a pointless waste of time. It's a pity that most men think the opposite.
