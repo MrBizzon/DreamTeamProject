@@ -3,7 +3,7 @@
 
 ***
 
-Of course, I could say that I like to play educational games, but this is not the case. Sometimes I like to drive in tanks [click here] (https://tankionline.com/ru "Browser game")
+Of course, I could say that I like to play educational games, but this is not the case. Sometimes I like to drive in tanks [жми сюда](https://tankionline.com/ru// "Браузерная игра"
 
 There are several types of guns used in this game:
 1. Isis
